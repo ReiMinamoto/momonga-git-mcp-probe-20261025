@@ -1,0 +1,8 @@
+{
+  "name": "momonga-git-probe",
+  "description": "Disposable synthetic MCP test. No production data.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Momonga test"
+  }
+}

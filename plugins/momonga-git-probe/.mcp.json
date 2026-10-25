@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "git-probe": {
+      "type": "http",
+      "url": "https://mcp-git-plugin-test-20261025.yozorafinance.com/mcp"
+    }
+  }
+}

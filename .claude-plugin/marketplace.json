@@ -1,0 +1,16 @@
+{
+  "name": "momonga-git-probe-20261025",
+  "owner": {
+    "name": "Momonga test"
+  },
+  "metadata": {
+    "description": "Disposable Git marketplace test"
+  },
+  "plugins": [
+    {
+      "name": "momonga-git-probe",
+      "source": "./plugins/momonga-git-probe",
+      "description": "Synthetic MCP test only"
+    }
+  ]
+}
